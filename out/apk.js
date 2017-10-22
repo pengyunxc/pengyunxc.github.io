@@ -4,5 +4,5 @@ $(document).ready(function(){
                         +"<br />"
                         +"<table class=\"solid widthstyle\"><tr><td><ul><li><span>新规</span></li></ul><ol><li><a target=\"_blank\" href=\"https://pan.baidu.com/s/1i5IhgK9\">PDF GA1026-2017（密码: s793）</a> <br /></li><li><a target=\"_blank\" href=\"https://pan.baidu.com/s/1dF0E0P7\">PDF GA1026-2017（密码: pv5t）</a> <br /></li></ol></td></tr></table>"
     );
-);
+});
 })(window.jQuery);
